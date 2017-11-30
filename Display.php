@@ -72,7 +72,7 @@
             }
         </style>
     </head>
-    <title>Compound Interest Calculation</title>
+    <title>Compound Interest Calculation test git</title>
         <body bgcolor="#C3CC7E">
             <h1 align="center"><font color="white"><b></b></font></h1>
             <table align="center" width="50%"border="0" cellspacing="0" cellpadding="0" class="hovertable">

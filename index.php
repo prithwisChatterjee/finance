@@ -50,7 +50,7 @@
 </head>
 <title>Compound Interest Calculation</title>
 	<body bgcolor="#C3CC7E">
-			<h1><font color="white"><b>Fill Your Details</b></font></h1>
+			<h1><font color="white"><b>Fill Your Details test b4 GIT</b></font></h1>
                         <h1><font color="white"><b><a href="appreciation_value.php">get Appreciation value</a></b></font></h1>
                         <form method="POST" action="Display.php">
 		<table align="center" width="30%" height="30%" border="1">
@@ -90,5 +90,8 @@
 				return false;
 
 		 return true;
+                 //test
 	}
+        
+        // this is test change again
 </script>
